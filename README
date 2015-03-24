@@ -1,14 +1,7 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Reviewer 1:
+When I ran your code in a new project on my emulator, a red screen shows up and says that there is an application error on line 100. When I dismissed the error message, I was only able to see the red screen with the appcelerator/titanium logo. I could not get the code to run properly on my emulator.  
+I met with Lori, because I was not able to run your code to see or fix any errors on my emulator. She told me to evaluate your code based on the actual code and the parts in it. 
+You did a great job with the navigation. It appears that you have two separate buttons to navigate between the “Tea” window and the “Camera” gadget window. The code for your “NavButton”’s is similar to mine which I can view on my emulator. Even though I cannot test your navigation code, I can trust that because the code is correct that it would work properly. 
+The phone gadget Camera that you used has the correct code as shown in the book. I was not able to run the emulator because the Camera will not show up on an iOS operating system. The code looks correct, and seems as if it should run properly on the correct emulator. 
 
-This is a single window application with a single view - a mostly blank canvas. Requires Titanium Mobile SDK 1.8.0+
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
+Overall the Code looks great! You have the tea section, the navigation between windows, and a phone gadget! 
